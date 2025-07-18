@@ -1,7 +1,7 @@
 {
   "name": "conceptor",
   "version": "0.0.3",
-  "repository": "github:cicada-lang/conceptor",
+  "repository": "github:xieyuheng/conceptor",
   "type": "module",
   "main": "./lib/index.js",
   "files": [
